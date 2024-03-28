@@ -1,0 +1,19 @@
+● Para visualizar os branchs disponíveis basta digitar git branch
+● Para criar um branch você precisa utilizar o comando git branch 
+<nome>
+● Estas duas operações são muito utilizadas no dia a dia de um dev;
+
+--------------------------------------------------------------------------------------------------------
+
+Quando damos um GIT BRANCH (comando de visualizar o comando), vamos perceber,
+que o git nos mostra a master
+
+Agora , se a gende der o comando GIT BRANCH PRIMEIROS_BRANCH.
+Acabamos de criar uma nova branch;
+Essa nova branch, fez uma cópia da master, ELA VEIO DIANTE DELA.
+
+<<<<<<<<<<<<<<<<<<<<< INFORMÇÃO IMPORTANTE, TODA VEZ QUE >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<< CRIARMOS UMA NOVA BRANCH, TEMOS QUE >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<< PARTIR DA MASTER, >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<< E NUNCA CRIAR UMA BRANCH NOVA DE >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<< OUTRA BRANCH NOVA >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
