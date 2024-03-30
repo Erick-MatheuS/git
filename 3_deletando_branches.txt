@@ -1,0 +1,11 @@
+● Podemos deletar um branch com a flag -d ou --delete
+● Não é comum deletar um branch, normalmente guardamos o histórico 
+do trabalho;
+● Geralmente se usa o delete quando o branch foi criado errado;
+
+
+Passo a passo:
+
+Inserimos um "git branch" em nosso git, para visualizar as branches;
+Escolhemos qual branch vamos deletar;
+Ai sim, damos o código <<<< GIT BRANCH -D MAIS>>>>>
