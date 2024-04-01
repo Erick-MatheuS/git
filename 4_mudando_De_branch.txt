@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ● Podemos mudar para outro branch utilizando o comando git checkout 
 -b <nome>
 ● Este comando também é utilizado para dispensar mudanças de um 
@@ -13,5 +14,4 @@ MUDAR DE BRANCH = GIT CHECKOUT NOME_BRANCH
 SABER EM QUAL BRANCH ESTAMOS = GIT BRACH
 
 
-oi
-tudo bem
+
