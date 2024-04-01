@@ -4,3 +4,4 @@ merge <nome>
 ● Normalmente é por meio dele que recebemos as atualizações de outros 
 devs;
 
+meu nome é erick matheus
