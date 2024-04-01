@@ -5,3 +5,8 @@ merge <nome>
 devs;
 
 
+Tenho esse arquivo feito , com meu resumo de como utilizar o git merge para 
+unir os branches;
+Nesse arquivo, tenho a "branch master" que foi criado um texto dentro dela,
+e também na branch "maisum";
+Vamos unilas para ver o resultado final;
