@@ -1,4 +1,17 @@
-fdef
-a
-b
-com
+<<<<<<< HEAD
+● Podemos mudar para outro branch utilizando o comando git checkout 
+-b <nome>
+● Este comando também é utilizado para dispensar mudanças de um 
+arquivo;
+● Alterando o branch podemos levar alterações que não foram 
+commitadas junto, tome cuidado!
+
+
+CRIAR UM BRANCH E FICAR NELE = GIT CHECKOUT -B NOVABRANCH
+
+MUDAR DE BRANCH = GIT CHECKOUT NOME_BRANCH
+
+SABER EM QUAL BRANCH ESTAMOS = GIT BRACH
+
+
+
